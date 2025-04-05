@@ -112,8 +112,8 @@ You can replace the `alone_again_01.wav` with your preferred lullaby or calming 
 ---
 
 ## 👥 Authors
-- [Your Name]
-- [Collaborator if any]
+- Ramilla Hrushikesh
+- Golakoti Ambica Ravindranadh
 
 ---
 
